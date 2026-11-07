@@ -16,3 +16,18 @@ env/
 *.tif
 *.tiff
 .matplotlib/
+
+# Report generation & office documents
+generate_btp_docx.py
+create_btp_presentation.py
+*.docx
+*.pptx
+*.pdf
+*.tex
+*.aux
+*.log
+*.toc
+*.lof
+*.lot
+
+
