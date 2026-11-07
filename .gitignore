@@ -1,0 +1,18 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Checkpoints & large model weights
+*.pth
+*.pt
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Large raw datasets / temporary caches
+*.tif
+*.tiff
+.matplotlib/

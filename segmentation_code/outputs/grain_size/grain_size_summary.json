@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "mask_path": "C:\\Users\\Harsh Mehta\\OneDrive\\Documents\\btp\\segmentation_code\\outputs\\inference\\IQ_mask.npy",
+    "iq_path": "C:\\Users\\Harsh Mehta\\OneDrive\\Documents\\btp\\segmentation_code\\..\\IQ and EBSD Phase maps\\IQ.tif",
+    "scale_um_per_px": 1.0,
+    "min_area_px": 30,
+    "image_dimensions": [
+      1024,
+      1024
+    ]
+  },
+  "ferrite": {
+    "n_grains": 181,
+    "phase_fraction_pct": 80.42,
+    "phase_area_um2": 843275.0,
+    "mean_diam_um": 59.223,
+    "std_diam_um": 45.698,
+    "median_diam_um": 47.095,
+    "min_diam_um": 6.676,
+    "max_diam_um": 275.19,
+    "D10_um": 22.483,
+    "D50_um": 47.095,
+    "D90_um": 107.771,
+    "mean_circularity": 0.5141,
+    "std_circularity": 0.1687,
+    "mean_aspect_ratio": 1.8116,
+    "std_aspect_ratio": 1.1199,
+    "mean_intercept_um": 34.51,
+    "grains_per_mm2": 214.64,
+    "ASTM_G_planimetric": 4.79,
+    "ASTM_G_intercept": 6.43,
+    "ASTM_G_diameter": 5.56
+  },
+  "austenite": {
+    "n_grains": 113,
+    "phase_fraction_pct": 19.07,
+    "phase_area_um2": 199959.0,
+    "mean_diam_um": 36.74,
+    "std_diam_um": 12.926,
+    "median_diam_um": 34.577,
+    "min_diam_um": 9.027,
+    "max_diam_um": 80.929,
+    "D10_um": 24.159,
+    "D50_um": 34.577,
+    "D90_um": 51.726,
+    "mean_circularity": 0.4679,
+    "std_circularity": 0.1729,
+    "mean_aspect_ratio": 2.0231,
+    "std_aspect_ratio": 0.8643,
+    "mean_intercept_um": 9.926,
+    "grains_per_mm2": 565.12,
+    "ASTM_G_planimetric": 6.19,
+    "ASTM_G_intercept": 10.02,
+    "ASTM_G_diameter": 6.93
+  }
+}

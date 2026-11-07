@@ -1,0 +1,20 @@
+==================================================
+  Test Evaluation Report
+  Medium Mn Steel — EfficientNet-B0 UNet
+==================================================
+
+Pixel Accuracy : 0.8919
+Mean IoU       : 0.7163
+
+[Ferrite]
+  IoU  : 0.8748
+  F1   : 0.9332
+  GT   : 80.97%
+  Pred : 80.92%
+
+[Austenite]
+  IoU  : 0.5579
+  F1   : 0.7162
+  GT   : 19.03%
+  Pred : 19.08%
+

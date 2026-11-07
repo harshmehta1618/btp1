@@ -1,0 +1,66 @@
+=================================================================
+   METALLOGRAPHIC GRAIN SIZE & STEREOLOGY REPORT
+   Medium Mn Steel | EfficientNet-UNet AI Segmentation
+=================================================================
+  Mask Path       : C:\Users\Harsh Mehta\OneDrive\Documents\btp\segmentation_code\outputs\inference\IQ_mask.npy
+  Spatial Scale   : 1.0000 px/px (Uncalibrated, set --scale)
+  Min Area Cutoff : 30 pixels
+
+-----------------------------------------------------------------
+  FERRITE PHASE (BCC Matrix)
+-----------------------------------------------------------------
+  Phase Area Fraction          : 80.42%
+  Phase Area                   : 843275.0 um^2
+  Total Grain Count            : 181
+  Planimetric Grain Density N_A: 214.6 grains/mm^2
+
+  -- Equivalent Circular Diameter (ECD) --
+  Mean ECD                     : 59.223 um
+  Standard Deviation           : 45.698 um
+  Median ECD (D50)             : 47.095 um
+  D10                          : 22.483 um
+  D90                          : 107.771 um
+  Min / Max ECD                : 6.676 / 275.190 um
+
+  -- Morphological Descriptors --
+  Mean Circularity (4*pi*A/P^2): 0.5141 +/- 0.1687  (1.0 = circle)
+  Mean Aspect Ratio (Major/Min): 1.8116 +/- 1.1199  (1.0 = equiaxed)
+
+  -- ASTM E112 Grain Size Number --
+  Heyn Mean Linear Intercept l : 34.510 um
+  ASTM G (Planimetric N_A)     : 4.79
+  ASTM G (Heyn Intercept l)    : 6.43
+  ASTM G (Mean Diameter d)     : 5.56
+
+-----------------------------------------------------------------
+  AUSTENITE PHASE (FCC Dispersed)
+-----------------------------------------------------------------
+  Phase Area Fraction          : 19.07%
+  Phase Area                   : 199959.0 um^2
+  Total Grain Count            : 113
+  Planimetric Grain Density N_A: 565.1 grains/mm^2
+
+  -- Equivalent Circular Diameter (ECD) --
+  Mean ECD                     : 36.740 um
+  Standard Deviation           : 12.926 um
+  Median ECD (D50)             : 34.577 um
+  D10                          : 24.159 um
+  D90                          : 51.726 um
+  Min / Max ECD                : 9.027 / 80.929 um
+
+  -- Morphological Descriptors --
+  Mean Circularity (4*pi*A/P^2): 0.4679 +/- 0.1729  (1.0 = circle)
+  Mean Aspect Ratio (Major/Min): 2.0231 +/- 0.8643  (1.0 = equiaxed)
+
+  -- ASTM E112 Grain Size Number --
+  Heyn Mean Linear Intercept l : 9.926 um
+  ASTM G (Planimetric N_A)     : 6.19
+  ASTM G (Heyn Intercept l)    : 10.02
+  ASTM G (Mean Diameter d)     : 6.93
+
+=================================================================
+  ASTM E112 Standard Reference Benchmark:
+    G =  1  -> ~254 um | G =  5 -> ~63.5 um | G =  8 -> ~22.5 um
+    G = 10  -> ~11.2 um | G = 12 ->  ~5.6 um | G = 14 ->  ~2.8 um
+  Note: Higher ASTM G indicates finer microstructure.
+=================================================================

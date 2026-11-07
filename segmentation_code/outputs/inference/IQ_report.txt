@@ -1,0 +1,5 @@
+Phase Fraction Report — IQ
+========================================
+Ferrite   (class 0): 82.27%
+Austenite (class 1): 17.73%
+Unindexed (class 255): 0.00%
